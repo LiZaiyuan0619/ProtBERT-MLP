@@ -1,2 +1,2 @@
-# ProtBERT-MLP
-A ProtBERT-based methylated DNA preference combined with transcription factor identification method
+# ProtBERT-MLP4TFPM
+*A ProtBERT-based methylated DNA preference combined with transcription factor identification method*
